@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">business card</string>
+    <string name="my_name">Nguch Nguch</string>
+    <string name="my_title">Software Engineer</string>
+    <string name="my_number">0700000000</string>
+    <string name="my_email">nguch@nguch.com</string>
 </resources>
